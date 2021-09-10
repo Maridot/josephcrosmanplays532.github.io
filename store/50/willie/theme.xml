@@ -82,7 +82,7 @@
     <facial id="head_sing_close_eye.swf" name="sing with closed eyes" enable="Y" aid="5807"/>
     <facial id="head_neutral.swf" name="neutral" enable="Y" aid="8508"/>
   </char>
-  <char id="super_willie" name="Super Willie" thumb="standing.swf" facing="left" default="standing.swf" motion="walking.swf" enable="Y" is_premium="Y" aid="5808" money="0" sharing="0">
+  <char id="super_willie" name="Super Willie" thumb="standing.swf" facing="left" default="standing.swf" motion="walking.swf" enable="Y" is_premium="Y" aid="5808" money="0" sharing="40">
     <category name="Emotion">
       <action id="happy.swf" name="happy" loop="Y" totalframe="85" enable="Y" aid="5811"/>
       <action id="sad.swf" name="sad" loop="Y" totalframe="83" enable="Y" aid="5812"/>
@@ -185,7 +185,7 @@
   <background id="the_road_bg.swf" name="" enable="N" is_premium="N" aid="5896" money="0" sharing="0"/>
   <background id="willie_stage_bg.swf" name="" enable="N" is_premium="N" aid="5897" money="0" sharing="0"/>
   <background id="bar.swf" name="" enable="N" is_premium="N" aid="5898" money="0" sharing="0"/>
-  <compositebg id="cbg_bus_interior" name="tour bus interior" enable="Y" default="N" thumb="bus_interior_bg.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="5899">
+  <compositebg id="cbg_bus_interior" name="tour bus interior" thumb="bus_interior_bg.jpg" enable="Y" is_premium="N" aid="5899" money="0" sharing="0">
   <bg id="cbg_bus_interior_BG1" index="0">
     <file>willie.bus_interior_bg.swf</file>
   </bg>
@@ -208,7 +208,7 @@
     <rotation>0</rotation>
   </prop>
 </compositebg>
-  <compositebg id="cbg_field" name="field" enable="Y" default="N" thumb="ranch_bg.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="5900">
+  <compositebg id="cbg_field" name="field" thumb="ranch_bg.jpg" enable="Y" is_premium="N" aid="5900" money="0" sharing="0">
   <bg id="cbg_field_BG1" index="0">
     <file>willie.ranch_bg.swf</file>
   </bg>
@@ -249,7 +249,7 @@
     <rotation>0</rotation>
   </prop>
 </compositebg>
-  <compositebg id="cbg_willie_stage" name="Willie stage" enable="Y" default="N" thumb="willie_stage_bg.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="5901">
+  <compositebg id="cbg_willie_stage" name="Willie stage" thumb="willie_stage_bg.jpg" enable="Y" is_premium="N" aid="5901" money="0" sharing="0">
   <bg id="cbg_willie_stage_BG1" index="0">
     <file>willie.willie_stage_bg.swf</file>
   </bg>
@@ -308,7 +308,7 @@
     <rotation>4.5</rotation>
   </prop>
 </compositebg>
-  <compositebg id="cbg_saloon" name="saloon" enable="Y" default="Y" thumb="bar_bg.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="5902">
+  <compositebg id="cbg_saloon" name="saloon" thumb="bar_bg.jpg" enable="Y" default="Y" is_premium="N" aid="5902" money="0" sharing="0">
   <bg id="cbg_saloon_BG46" index="0">
     <file>willie.bar.swf</file>
   </bg>
@@ -421,7 +421,7 @@
     <rotation>0</rotation>
   </prop>
 </compositebg>
-  <compositebg id="cbg_route_66" name="route 66" enable="Y" default="N" thumb="the_road_bg.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="5903">
+  <compositebg id="cbg_route_66" name="route 66" thumb="the_road_bg.jpg" enable="Y" is_premium="N" aid="5903" money="0" sharing="0">
   <bg id="cbg_route_66_BG1" index="0">
     <file>willie.the_road_bg.swf</file>
   </bg>
@@ -435,7 +435,7 @@
     <rotation>0</rotation>
   </prop>
 </compositebg>
-  <compositebg id="cbg_golf_course" name="golf course" enable="Y" default="N" thumb="golf_course_bg.jpg" display_order="0" is_premium="N" money="0" sharing="0" aid="5904">
+  <compositebg id="cbg_golf_course" name="golf course" thumb="golf_course_bg.jpg" enable="Y" is_premium="N" aid="5904" money="0" sharing="0">
   <bg id="cbg_golf_course_BG146" index="0">
     <file>willie.golf_course_bg.swf</file>
   </bg>
@@ -462,22 +462,6 @@
     <state id="ranch_props3.swf" name="dark brown" enable="Y" default="Y"/>
     <state id="ranch_props4.swf" name="light brown" enable="Y"/>
   </prop>
-  <prop id="bandanas_red.swf" name="Bandanas (red)" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5908" money="0" sharing="0"/>
-  <prop id="bandanas_us.swf" name="Bandanas (US)" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5909" money="0" sharing="0"/>
-  <prop id="beach_shower.swf" name="Beach Shower" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5910" money="0" sharing="0"/>
-  <prop id="beer_can.swf" name="Beer Can" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5911" money="0" sharing="0"/>
-  <prop id="cowboy_hat.swf" name="Cowboy Hat" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="5912" money="0" sharing="0"/>
-  <prop id="golf_ball.swf" name="Golf Ball" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5913" money="0" sharing="0"/>
-  <prop id="mickey_harmonica.swf" name="Mickey Harmonica" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5914" money="0" sharing="0"/>
-  <prop id="pool_cue.swf" name="Pool Cue" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5915" money="0" sharing="0"/>
-  <prop id="texas_flag.swf" name="Texas Flag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5916" money="0" sharing="0"/>
-  <prop id="tour_bus.swf" name="Tour Bus" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5917" money="0" sharing="0"/>
-  <prop id="trigger.swf" name="Trigger" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5918" money="0" sharing="0"/>
-  <prop id="wooden_barrel.swf" name="Wooden Barrel" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5919" money="0" sharing="0"/>
-  <prop id="bar_bench.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5920" money="0" sharing="0"/>
-  <prop id="bar_chair.swf" name="Wooden Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5921" money="0" sharing="0"/>
-  <prop id="bar_pooltable.swf" name="Pool Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5922" money="0" sharing="0"/>
-  <prop id="bar_stool.swf" name="Wooden Stool" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5923" money="0" sharing="0"/>
   <prop id="bar_table.swf" name="Wooden Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5924" money="0" sharing="0"/>
   <prop id="bus_interior_props1.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5925" money="0" sharing="0"/>
   <prop id="bus_interior_props2.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5926" money="0" sharing="0"/>
@@ -492,6 +476,22 @@
   <prop id="the_road_cactus.swf" name="Cactus" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5935" money="0" sharing="0"/>
   <prop id="golf_course_props1.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5936" money="0" sharing="0"/>
   <prop id="golf_course_props2.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5937" money="0" sharing="0"/>
+  <prop id="bar_stool.swf" name="Wooden Stool" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5923" money="0" sharing="0"/>
+  <prop id="bar_pooltable.swf" name="Pool Table" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5922" money="0" sharing="0"/>
+  <prop id="bandanas_red.swf" name="Bandanas (red)" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5908" money="0" sharing="0"/>
+  <prop id="bandanas_us.swf" name="Bandanas (US)" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5909" money="0" sharing="0"/>
+  <prop id="beach_shower.swf" name="Beach Shower" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5910" money="0" sharing="0"/>
+  <prop id="beer_can.swf" name="Beer Can" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5911" money="0" sharing="0"/>
+  <prop id="cowboy_hat.swf" name="Cowboy Hat" holdable="0" placeable="1" wearable="1" facing="left" thumb="" enable="Y" is_premium="N" aid="5912" money="0" sharing="0"/>
+  <prop id="golf_ball.swf" name="Golf Ball" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5913" money="0" sharing="0"/>
+  <prop id="mickey_harmonica.swf" name="Mickey Harmonica" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5914" money="0" sharing="0"/>
+  <prop id="pool_cue.swf" name="Pool Cue" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5915" money="0" sharing="0"/>
+  <prop id="texas_flag.swf" name="Texas Flag" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5916" money="0" sharing="0"/>
+  <prop id="tour_bus.swf" name="Tour Bus" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5917" money="0" sharing="0"/>
+  <prop id="trigger.swf" name="Trigger" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5918" money="0" sharing="0"/>
+  <prop id="wooden_barrel.swf" name="Wooden Barrel" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5919" money="0" sharing="0"/>
+  <prop id="bar_bench.swf" name="" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="N" is_premium="N" aid="5920" money="0" sharing="0"/>
+  <prop id="bar_chair.swf" name="Wooden Chair" holdable="0" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5921" money="0" sharing="0"/>
   <prop id="gut_bucket.swf" name="Gut Bucket" holdable="1" placeable="1" wearable="0" facing="left" thumb="" enable="Y" is_premium="N" aid="5938" money="0" sharing="0"/>
   <sound id="willi_onRoadAgain120.mp3" name="On The Road Again" downloadtype="stream" subtype="bgmusic" duration="120000" enable="Y" is_premium="N" aid="5939" money="0" sharing="0"/>
   <sound id="willi_local_mem_120.mp3" name="The Local Memory" downloadtype="stream" subtype="bgmusic" duration="120000" enable="Y" is_premium="N" aid="5940" money="0" sharing="0"/>
