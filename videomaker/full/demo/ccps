@@ -1,0 +1,554 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" >
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/favicon.ico" type="image/x-icon">
+
+    <!-- PowerSchool App Switcher -->
+    <link class="pds-icon-src" rel="import" href="https://assets.powerschool.com/pds/20.2.0/img/icons/pds-icons.svg" />
+    <script src="https://assets.powerschool.com/pds/20.2.0/js/powerschool-design-system-toolkit-bundled.min.js"></script>
+    <link rel="stylesheet" href="https://assets.powerschool.com/pds/20.2.0/css/pds-lite.css">
+    <link rel="import" href="https://assets.powerschool.com/pds/20.2.0/html/individual-polymer-components/pds-icon.html" />
+    <link rel="import" href="https://assets.powerschool.com/pds/20.2.0/html/individual-polymer-components/shared-widget-styles.html" />
+    <link rel="import" href="https://assets.powerschool.com/pds/20.2.0/html/individual-polymer-components/pds-app-switcher-styles.html" />
+    <link rel="import" href="https://assets.powerschool.com/pds/20.2.0/html/individual-polymer-components/pds-app-switcher.html" />
+    <link rel="stylesheet" type="text/css" href="https://assets.powerschool.com/pds/20.2.0/css/pds-components-shim.css">
+    <!-- End PowerSchool App Switcher -->
+
+    <title>The GoAnimate Video Maker - Make A Awesome GoAnimate Video For Your Whole School To See! | Schoology</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="The Video Maker Allows You To Make A GoAnimate Video For Your Whole School To See On Schoology. Pick A Theme, Create A Video, And Preview It To Your School! This Also Revives GoAnimate For Schools After June 30th 2019 Shutdown. - GoAnimate!" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="/sites/all/themes/schoology_theme/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="https://josephcrosmanplays532.github.io/GoAnimate-For-Schools-Wix-Files/css/old.css">
+<link rel="stylesheet" href="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/css/common_combined.css.gz.css" type="text/css" />
+<link rel="stylesheet" href="https://josephcrosmanplays532.github.io/GoAnimate-For-Schools-Wix-Files/css/importer.css.gz.css">
+<link rel="stylesheet" href="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/css/studio.css.gz.css" type="text/css" />
+<meta name="format-detection" content="telephone=no">
+<style type="text/css" media="all">@import "https://asset-cdn.schoology.com/assets/bundles/js/common/common-bc858fa5be7f6188a0d8.css";</style>
+<style type="text/css" media="all">@import "https://asset-cdn.schoology.com/assets/drupal-css-files/s_extlink_6c314655d021dfa27ca941904fc7811c_6143a478349d6b94.css";</style>
+<style type="text/css" media="all">@import "https://asset-cdn.schoology.com/assets/drupal-css-files/s_course_65b3417e917f342cc25969f155c4c022_6143a478349d6b94.css";</style>
+<style type="text/css" media="all">@import "https://asset-cdn.schoology.com/assets/drupal-css-files/s_course_materials_f95a888f19cbef15a357c7be86c8db7d_6143a478349d6b94.css";</style>
+<style type="text/css" media="all">@import "https://asset-cdn.schoology.com/assets/drupal-css-files/s_discussion_af36ee128e21538f2ae59f98d364d28c_6143a478349d6b94.css";</style>
+<style type="text/css" media="all">@import "https://asset-cdn.schoology.com/assets/drupal-css-files/s_app_ff340db9f17ce5c4db7a5fba35453408_6143a478349d6b94.css";</style>
+<style type="text/css" media="all">@import "https://asset-cdn.schoology.com/assets/drupal-css-files/s_enrollment_e14c89b33c446129fd3bf47a299bdf8e_6143a478349d6b94.css";</style>
+<style type="text/css" media="all">@import "https://asset-cdn.schoology.com/assets/drupal-css-files/style_078b46fd44ee650f2914cffa9da9eb6e_6143a478349d6b94.css";</style>
+
+<link type="text/css" rel="stylesheet" media="all" href="https://asset-cdn.schoology.com/sites/all/themes/schoology_theme/school_themes/style.css.php?theme=2148144395&updated=1565202947&6143a478349d6b94" /><link rel="stylesheet" type="text/css" media="print" href="/sites/all/themes/schoology_theme/print.css" />    <!--[if lte IE 7]><link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/schoology_theme/fix-ie.css" /><![endif]-->
+    <!--[if lt IE 9]>
+    <script>
+      document.createElement('header');
+      document.createElement('nav');
+      document.createElement('section');
+      document.createElement('article');
+      document.createElement('aside');
+      document.createElement('footer');
+      document.createElement('hgroup');
+      document.createElement('figure');
+      document.createElement('figcaption');
+    </script>
+    <![endif]-->
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/js/common_combined.js.gz.js"></script>
+<script type="text/javascript" src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/po/goserver_js-en_US.json.gz.json"></script>
+<script type="text/javascript">
+var I18N_LANG = 'en_US';
+var GT = new Gettext({'locale_data': json_locale_data});
+</script>
+<script src="https://vyondhosterremastered.000webhostapp.com/ajax/cookie_policy" async=""></script>
+<script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/js/movie.js.gz.js"></script>
+<script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/js/cookie.js.gz.js"></script>
+<script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/js/studio.js.gz.js"></script>
+<script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/js/jquery/jquery.tmpl.min.js.gz.js"></script>
+<script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/js/studio.js.gz.js"></script>
+
+<!-- Google Knowledge Graph -->
+<script type="application/ld+json">
+{
+    "@context": "http://web.archive.org/web/20190524201240/http://schema.org",
+    "@type": "Organization",
+    "name": "GoAnimate",
+    "url": "http://web.archive.org/web/20190524201240/http://goanimate.com",
+    "logo": "http://web.archive.org/web/20190524201240/http://gawpstorage.s3.amazonaws.com/img/google_knowledge_graph_logo.jpg",
+    "sameAs": [
+        "http://web.archive.org/web/20190524201240/http://www.facebook.com/GoAnimateInc",
+        "http://web.archive.org/web/20190524201240/http://twitter.com/GoAnimate",
+        "http://web.archive.org/web/20190524201240/http://www.linkedin.com/company/goanimate",
+        "http://web.archive.org/web/20190524201240/http://plus.google.com/+goanimate",
+        "http://web.archive.org/web/20190524201240/http://www.youtube.com/user/GoAnimate"
+    ]
+}
+</script>
+<body class="page-action-videomaker full_screen_studio" style="">
+    <div id="body">
+          <a href="#main" class="skip visually-hidden">Skip to Content</a>
+        <!-- Layout -->
+
+    <!--[if lte IE 6]>
+    <div class="ie6-message header">
+      <span class="message-icon"></span>
+      <h3>Warning</h3>
+      <p>You are using Internet Explorer version 6.0 or lower.  Due to security issues and lack of support for Web Standards, it is highly recommended that you upgrade to a modern browser.</p>
+      <div class="browsers"><p>Download:</p>
+        <a href="http://www.mozilla.com/firefox"><img src="/sites/all/themes/schoology_theme/images/firefox.gif" alt="Download Firefox" /></a>
+        <a href="http://www.google.com/chrome"><img src="/sites/all/themes/schoology_theme/images/chrome.gif" alt="Download Google Chrome" /></a>
+        <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx"><img src="/sites/all/themes/schoology_theme/images/ie.gif" alt="Download Internet Explorer" /></a>
+        <a href="http://www.apple.com/safari/"><img src="/sites/all/themes/schoology_theme/images/safari.gif" alt="Download Safari" /></a>
+      </div>
+    </div>
+    <![endif]-->
+    
+      <div id='header' class='site-navigation' style='background: #FFFFFF' role='banner'></div><div id='site-navigation-breadcrumbs' class='site-navigation'></div>
+      <div id="wrapper" class="site-navigation-resize">
+            <div id="container" class=" clearfix">
+
+                  <div id="sidebar-left" class="sidebar ">
+            <div id="content-left-top"><div class="profile-picture-wrapper"><div class="profile-picture"><img src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/img/site/logo4s.png" alt="GoAnimate For Schools" title=""  class="imagecache imagecache-profile_reg" /></div></div><div class="s-js-course-materials-dropdown course-materials-dropdown" id="course-materials-dropdown"><div class="dropdown-view course-materials-folders"><div class="item-list"><ul><li class="first"><a href="/course/5171570108/materials?f=500488908"><span class="inline-icon folder-icon folder-color-yellow mini"><span class="visually-hidden">Folder.</span></span>Weekly Agenda and Overview</a></li>
+<li><a href="/course/5171570108/materials?f=500484445"><span class="inline-icon folder-icon folder-color-red mini"><span class="visually-hidden">Folder.</span></span>Unit 1 Getting To Know...So Much!</a></li>
+<li class="last"><a href="/course/5171570108/materials?f=500516173"><span class="inline-icon folder-icon folder-color-orange mini"><span class="visually-hidden">Folder.</span></span>Helpful Links &amp; Resources</a></li>
+</ul></div></div></div>
+</div>            <div id="left-nav" role="navigation">
+              <div id="menu-s-home" role="navigation"></div>
+                            <div id="menu-s-main"><ul class="menu" role="menu"><li role="menuitem" class="expanded first active-trail even" ><div class="link-wrapper menu-235 course-profile-left-menu active-trail-dist-3"><a href="/course/5171570108" class="menu-235 course-profile-left-menu" role="menuitem"><span><span class="visually-hidden">Current Menu Item</span></span>Course Profile</a></div><ul class="menu" role="menu"><li role="menuitem" class="collapsed first active-trail even" ><div class="link-wrapper menu-813 course-materials-left-menu active-trail-dist-2"><a href="/course/5171570108/materials" class="menu-813 course-materials-left-menu" role="menuitem"><span><span class="visually-hidden">Current Menu Item</span></span><div class="materials-dropdown-arrow hidden" tabindex="0" aria-haspopup="true"><span></span><span class="visually-hidden">Materials Dropdown</span></div>Materials</a></div></li>
+<li role="menuitem" class="leaf odd" ><div class="link-wrapper menu-1025 course-updates-left-menu"><a href="/course/5171570108/updates" class="menu-1025 course-updates-left-menu" role="menuitem"><span></span>Updates</a></div></li>
+<li role="menuitem" class="leaf even" ><div class="link-wrapper menu-747 course-student-grade-left-menu"><a href="/course/5171570108/student_grades" class="menu-747 course-student-grade-left-menu" role="menuitem"><span></span>Grades</a></div></li>
+<li role="menuitem" class="leaf last odd" ><div class="link-wrapper menu-821 course-member-left-menu"><a href="/course/5171570108/members" class="menu-821 course-member-left-menu" role="menuitem"><span></span>Members</a></div></li>
+</ul></li>
+<li role="menuitem" class="collapsed last odd" ><div class="link-wrapper menu-4027 course-profile-left-menu"><a href="/course-templates/5171570108" class="menu-4027 course-profile-left-menu" role="menuitem"><span></span>Course Profile</a></div></li>
+</ul></div>
+                          </div>
+            <div id="content-left"><div id="menu-s-apps"><div id="menu-s-apps-list"><div class="app-link-wrapper" id="app-run-1027552322"><a href="/apps/1027552322/run/course/5171570108" class="app-link"><div class="app-logo"><img src="https://asset-cdn.schoology.com/system/files/imagecache/profile_tiny/applogos/logo-_59b7311b75199.png?1505177883" alt="Profile picture for Discovery Education" title=""  class="" /></div><span class = "app-title">Discovery Education</span></a></div><div class="app-link-wrapper" id="app-run-305268260"><a href="/apps/305268260/run/course/5171570108" class="app-link"><div class="app-logo"><img src="https://asset-cdn.schoology.com/system/files/imagecache/profile_tiny/applogos/logo-_5eb0d18ae4404.png?1588646282" alt="Profile picture for OneNote Class Notebook" title=""  class="" /></div><span class = "app-title">OneNote Class Notebook</span></a></div><div class="app-link-wrapper" id="app-run-2413452563"><a href="/apps/2413452563/run/course/5171570108" class="app-link"><div class="app-logo"><img src="https://asset-cdn.schoology.com/system/files/imagecache/profile_tiny/applogos/logo-_5e791ee7c723f.png?1584996071" alt="Profile picture for Sora, by OverDrive" title=""  class="" /></div><span class = "app-title">Sora, by OverDrive</span></a></div></div></div><div class="left-block-wrapper"><h3 class="h3-med-flat">Information</h3><div class="left-block"><div class="course-info-wrapper"><p class="course-info"></p><dl><dt>Grading period</dt><dd>Marking Period 1: 2021-09-08 - 2021-11-10</dd></dl></div></div></div>
+</div>                       </div> <!-- /#sidebar-left -->
+        <div id="main-content-wrapper" class="clearfix ">
+                                <div id="center-wrapper" class="">
+                    <div id="center-inner" class="clearfix">
+            <div id="center-top">
+                            <div class="content-top-upper"><div class="content-top-upper-wrapper"><span class="course-title"><a href="/course/5171570108">GoAnimate For Schoology</a></span><div class='course-material-navigator'><div class='navigator-buttons'><span class="infotip" tipsygravity="ne"aria-label='Web Link MVHS Daily Announcements'><a class='navbtn link-btn navbtn-prev' href="../styles" course='5171570108'><span>Prev</span></a><span class="infotip-content"><div class="material-navigator-item"><span class="inline-icon link-icon"><span class="visually-hidden">Web Link</span></span> MVHS Daily Announcements</div></span></span><span class="infotip" tipsygravity="ne"aria-label='Web Link Syllabus'><a class='navbtn link-btn ' href="/course/5171570108/materials/gp/5292003434" course='5171570108'><span>Next</span></a><span class="infotip-content"><div class="material-navigator-item"><span class="inline-icon link-icon"><span class="visually-hidden">Web Link</span></span> Syllabus</div></span></span></div><div class='folder-title'><span class="inline-icon folder-icon folder-color-orange"><span class="visually-hidden">Folder.</span></span><a href="/course/5171570108/materials?f=500516173">Helpful Links &amp; Resources</a></div></div>
+</div></div>                          	<h2 class="page-title "><a href="https://josephcrosmanplays532.github.io/videomaker/full/BluePeacocks" target="_blank"><span class="inline-icon mini external-link-icon"></span>The GoAnimate Videomaker Studio</a></h2>                            <div class="content-top"><div class="content-top-wrapper">
+</div></div>                  	      </div>
+<div class="alert alert-danger">
+            <div class="alert-content text-center">This Is A Demo Version Of The GoAnimate CCPS Style Of The GoAnimate Videomaker Studio itself. some buttons require sign in while you use it as a guest witch is the mode you are in right now. 
+            </div>
+        </div>
+  					                                                                                    <div id="content-wrapper">
+              <div id="center"><div id="main"><div id="main-inner"><link href="https://josephcrosmanplays532.github.io/GoAnimate-For-Schools-Wix-Files/css/old.css" rel="stylesheet" type="text/css">
+
+
+<div style="position:relative;">
+    <div id="studioBlock" style="height: 0px;"><!-- --></div>
+
+    <div id="playerBlock"></div>
+</div>
+
+    <div id="previewPlayerContainer" style="display: none;">
+        <div class="preview-player" id="previewPlayer">
+            <h2>Preview Video</h2>
+            <div id="playerdiv"></div>
+            <div class="buttons clearfix">
+                <button class="preview-button edit" onclick="switchBackToStudio();">Back to editing</button>
+                <button class="preview-button save" onclick="publishStudio();">Save Now</button>            </div>
+
+            <a class="close_btn" href="#" onclick="switchBackToStudio(); return false;">×</a>
+        </div>
+    </div>
+    <div class="video-tutorial" id="video-tutorial" style="display: none;">
+        <div class="video-tutorial-body">
+            <h2>&nbsp;</h2>
+            <div class="video-tutorial-player">
+                <div id="wistia_player" class="wistia_embed" style="width:860px;height:445px">&nbsp;</div>
+            </div>
+            <a class="close_btn" href="#" onclick="return false;">×</a>
+        </div>
+        <div class="video-tutorial-footer clearfix">
+            <button class="tutorial-button" type="button">
+                Close            </button>
+        </div>
+    </div>
+
+
+<div style="display:none">
+    
+</div>
+
+<script>
+
+    var hideHTMLBox = function() {
+        window.close();
+    };
+
+    function tutorialStarted() {
+    }
+    function tutorialStep(sn) {
+    }
+    function tutorialCompleted() {
+    }
+
+    var enable_full_screen = true;
+
+    var studio_data = {
+        id: "Studio",
+        swf: "https://josephcrosmanplays532.github.io/animation/8389acc5d2f2b548/go_full.swf",
+        width: "100%",
+        height: "100%",
+
+        align: "middle",
+        allowScriptAccess: "always",
+        allowFullScreen: "true",
+        wmode: "window",
+
+        hasVersion: "10.3"
+    };
+
+    if (!enable_full_screen) {
+        studio_data.width  = 960;
+        studio_data.height  = 630;
+        resize_studio = false;
+    }
+
+studio_data.flashvars={"apiserver":"https://goanimate4schoolswix.herokuapp.com/","storePath":"https://josephcrosmanplays532.github.io/store/3a981f5cb2739137/<store>","isEmbed":1,"ctc":"go","ut":60,"bs":"default","appCode":"go","page":"","siteId":"go","lid":13,"isLogin":"Y","retut":1,"clientThemePath":"https://josephcrosmanplays532.github.io/static/ad44370a650793d9/<client_theme>","themeId":"custom","tlang":"en_US","presaveId":"m-1","goteam_draft_only":1,"isWide":1,"nextUrl":"https://josephcrosmanplays532.github.io/GoAnimate-For-Schools-Wix","tray":"custom"};
+
+var _ccad = null;
+
+function proceedWithFullscreenStudio() {
+    // These should be executed only when we are really ready to show the studio
+    window.onbeforeunload = function(e) {
+        var e = e || window.event;
+        var msg = null;
+        if (loadedFullscreenStudio && studioApiReady) {
+            msg = 'You are about to lose all your unsaved changes in the studio.';
+        }
+        if (e && msg != null) {
+            e.returnValue = msg;
+        }
+
+        if (msg != null) {
+            return msg;
+        }
+    };
+
+    $('div#studioBlock').css('height', '0px');
+    $('#studio_holder').flash(studio_data);
+    full_screen_studio();
+
+    ajust_studio();
+}
+
+
+    var studioApiReady = false;
+    var videoTutorial = null;
+
+    function studioLoaded() {
+        studioApiReady = true;
+        $(document).trigger('studioApiReady');
+    };
+    $(document).ready(function() {
+        if (enable_full_screen) {
+
+            if (!true) {
+                $('#studio_container').css('top', '0px');
+            }
+            $('#studio_container').show();
+            $('.site-footer').hide();
+            $('#studioBlock').css('height', '1800px');
+
+            if (false) {
+                checkCopyMovie('javascript:proceedWithFullscreenStudio()', '');
+            } else if (false) {
+                checkEditMovie('');
+            } else {
+                proceedWithFullscreenStudio();
+            }
+
+            $(window).on('resize', function() {
+                ajust_studio();
+            });
+            $(window).on('studio_resized', function() {
+                if (show_cc_ad) {
+                    _ccad.refreshThumbs();
+                }
+            });
+
+            if (studioApiReady) {
+                var api = studioApi($('#studio_holder'));
+                api.bindStudioEvents();
+            }
+            $('.ga-importer').prependTo($('#studio_container'));
+        } else {
+            $('#studioBlock').flash(studio_data);
+        }
+        // Video Tutorial
+        videoTutorial = new VideoTutorial($("#video-tutorial"));
+    })
+    // restore studio when upsell overlay hidden
+    .on('hidden', '#upsell-modal', function(e) {
+        if ($(e.target).attr('id') == 'upsell-modal') {
+            restoreStudio();
+        }
+    })
+    .on('studioApiReady', function() {
+        var api = studioApi($('#studio_holder'));
+        api.bindStudioEvents();
+    })
+    jQuery("#previewPlayerContainer, #video-tutorial").hide();
+
+    function initPreviewPlayer(dataXmlStr, startFrame) {
+        savePreviewData(dataXmlStr);
+
+        if (typeof startFrame == 'undefined') {
+            startFrame = 1;
+        } else {
+            startFrame = Math.max(1, parseInt(startFrame));
+        }
+
+        previewSceen();
+        jQuery("#previewPlayerContainer").show();
+
+        createPreviewPlayer("playerdiv", {
+            height: 360,
+            width: 640,
+            player_url: "https://josephcrosmanplays532.github.io/animation/8389acc5d2f2b548/player.swf",
+            quality: "medium"
+        }, {"apiserver":"https://goanimate4schoolswix.herokuapp.com/","storePath":"https://josephcrosmanplays532.github.io/store/3a981f5cb2739137/<store>","ut":60,"autostart":1,"isWide":1,"clientThemePath":"https://josephcrosmanplays532.github.io/ad44370a650793d9/<client_theme>","movieId":""}
+    function switchBackToStudio() {
+        try {
+            (jQuery("#previewPlayerContainer #Player").get(0) || {pause:function(){}}).pause();
+        } catch (err) {};
+        jQuery("#previewPlayerContainer").hide();
+        restoreStudio();
+        document.getElementById("Studio").onExternalPreviewPlayerCancel();
+    }
+    function publishStudio() {
+        try {
+            (jQuery("#previewPlayerContainer #Player").get(0) || {pause:function(){}}).pause();
+        } catch (err) {};
+        jQuery("#previewPlayerContainer").hide();
+        restoreStudio();
+        document.getElementById("Studio").onExternalPreviewPlayerPublish();
+    }
+    function exitStudio(share) {
+        loadedFullscreenStudio = false;
+    }
+
+    VideoTutorial.tutorials.composition = {
+        title: 'Composition Tutorial',
+        wistiaId: 'nuy96pslyp',
+    };
+    VideoTutorial.tutorials.enterexit = {
+        title: 'Enter and Exit Effects Tutorial',
+        wistiaId: 'fvjsa3jnzc',
+    }
+</script>
+
+<script id="importer-file-tmpl" type="text/x-jquery-tmpl">
+    <li class="ga-importer-file clearfix fade">
+        <div class="ga-importer-file-icon"><div class="ga-importer-file-progress-bar"><div class="upload-progress"></div></div></div>
+        <div class="ga-importer-file-body">
+            <div class="filename"></div>
+            <div class="actions clearfix">
+                <span class="menu"></span>
+                <span class="category"></span>
+                <a class="cancel" href="#" data-action="cancel-upload" title="Cancel">&times;</a>
+                <a class="add-to-scene" href="#" data-action="add-to-scene">Add to scene</a>
+                <span class="processing">Processing. Please wait...</span>
+                <span class="error"></span>
+            </div>
+        </div>
+    </li>
+</script>
+
+<script id="importer-select-sound-tmpl" type="text/x-jquery-tmpl">
+    <div class="dropdown">
+        <a class="import-as-btn dropdown-toggle" data-toggle="dropdown" href="#">Import as <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+            <li><a tabindex="-1" href="#" data-subtype="bgmusic">Music</a></li>
+            <li><a tabindex="-1" href="#" data-subtype="soundeffect">Sound Effect</a></li>
+            <li><a tabindex="-1" href="#" data-subtype="voiceover">Voice-Over</a></li>
+        </ul>
+    </div>
+</script>
+
+<script id="importer-select-prop-tmpl" type="text/x-jquery-tmpl">
+    <div class="dropdown">
+        <a class="import-as-btn dropdown-toggle" data-toggle="dropdown" href="#">Import as <span class="caret"></span></a>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+            <li><a tabindex="-1" href="#" data-subtype="prop">Prop</a></li>
+            <li><a tabindex="-1" href="#" data-subtype="bg">Background</a></li>
+        </ul>
+    </div>
+</script>
+<script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/school/js/importer.js.gz.js"></script>
+<script>window.searchTermsDataUrl = 'https://josephcrosmanplays532.github.io/store/4e75f501cfbf51e3/common/terms.json';</script>
+<script src="https://josephcrosmanplays532.github.io/static/642cd772aad8e952/go/js/search-suggestion.js.gz.js"></script>
+
+<script>
+ImporterFile.defaults.options.accept_mime = ["image\/png","image\/jpeg","image\/gif","image\/bmp","audio\/mpeg","audio\/wav","audio\/x-wav","audio\/vnd.wave","audio\/wave","audio\/mp3","audio\/mp4","audio\/ogg","audio\/vorbis","audio\/aac","audio\/m4a","audio\/x-m4a","application\/x-shockwave-flash","video\/mp4","video\/mpeg4","video\/x-flv","video\/x-ms-wmv","application\/mp4"];
+ImporterFile.defaults.options.restricted_mime = [];
+</script>
+
+<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js"></script><style id="wistia_19_style" type="text/css" class="wistia_injected_style">
+@font-face {
+font-family: 'WistiaPlayerOverpassNumbers';
+src: url(data:application/x-font-ttf;charset=utf-8;base64,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);
+}
+</style><style id="wistia_19_style" type="text/css" class="wistia_injected_style">
+@font-face {
+font-family: 'WistiaPlayerOverpassNumbers';
+src: url(data:application/x-font-ttf;charset=utf-8;base64,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);
+}
+</style>
+
+
+<div id="studio_container" style="width: 960px; height: 717px;"><div class="ga-importer">
+        <div class="ga-importer-header">
+            <form class="ga-importer-base-form" action="/ajax/saveUserProp" method="post">
+                <a class="ga-importer-collapse" href="#" title="Collapse" onclick="hideImporter(); return false;">×</a>
+                <div class="fileinputs">
+                    <div class="importer-button file-trigger" style="width:140px;">SELECT FILES</div>
+                    <input class="ga-importer-file-input" type="file" name="file" multiple="">
+                </div>
+                <span class="hints">
+                    <i class="i-help"></i>
+                    <div class="tooltip in" style="display:none;">
+                        <div class="tooltip-arrow"></div>
+                        <div class="tooltip-inner">
+                            <ul>
+                                <li>Maximum file size: 15MB</li>
+                                <li>Images: JPG, PNG<br>To cover the whole stage in a 1080p video, use an image at least 1920px x 1080px.</li>
+                                <li>Audio: MP3, WAV, M4A</li>
+                                    <li>Video: MP4, SWF.</li>
+                                </ul>
+                        </div>
+                    </div>
+                </span>
+                <input type="hidden" name="subtype" value="">
+            </form>
+        </div>
+        <div class="ga-importer-content" style="height: 666px;">
+            <div class="ga-importer-start">
+                <div class="ga-importer-start-draghere">Drag files here</div>
+                <div class="ga-importer-instruction general">
+                    <ul>
+                        <li><strong>Maximum file size:</strong> 15MB</li>
+                        <li><strong>Images:</strong> JPG, PNG<br>To cover the whole stage in a 1080p video, use an image at least 1920px x 1080px.</li>
+                        <li><strong>Audio:</strong> MP3, WAV, M4A</li>
+                            <li><strong>Video:</strong> MP4, SWF. For more information about uploading SWF files, please click <a href="#" onclick="$('.ga-importer-instruction').toggle(); return false;">here</a>.</li>
+                        </ul>
+                </div>
+                <div class="ga-importer-instruction for-swf" style="display: none;">
+                    <p class="text-center"><b>For a .swf file</b></p>
+                    <ul>
+                        <li><strong>Frame rate:</strong> 24 frames per second</li>
+                        <li><strong>Flash Player version:</strong> 9</li>
+                        <li><strong>Load order:</strong> Bottom up</li>
+                        <li><strong>Action Script version:</strong> 3.0<br>You may use limited frame-navigation functions in ActionScript functions like "gotoAndPause", "pause" or "play". Please note that ActionScript functions may create problems when users watch a video and drag the player timeline manually.</li>
+                        <li><strong>Content positioning:</strong> Place the center of your prop at the origin of your stage (i.e. x=0 and y=0).</li>
+                    </ul>
+                    <div class="text-center"><a href="#" onclick="$('.ga-importer-instruction').toggle(); return false;">Back</a></div>
+                </div>
+            </div>
+            <div class="ga-importer-results">
+                <div class="ga-importer-notice clearfix"><span class="ga-importer-notice-count pull-left">0 file have been added to Your Library.</span> <a class="ga-importer-notice-clear pull-right" href="#">Clear</a></div>
+                <ul class="ga-importer-files"></ul>
+            </div>
+            <div class="ga-importer-queue-message">
+                Assign a category to start importing
+                <span class="hints pull-right">
+                    <i class="i-help"></i>
+                    <div class="tooltip in" style="display:none;">
+                        <div class="tooltip-arrow"></div>
+                        <div class="tooltip-inner">
+                            <p>Imported files are categorized to simplify browsing.</p>
+                            <p>Use the "IMPORT AS" drop down to see the available categories based on the format of the file you import.</p>
+                        </div>
+                    </div>
+                </span>
+            </div>
+            <ul class="ga-importer-queue"></ul>
+        </div>
+        <div class="ga-import-dnd-hint">
+            Release to start uploading        </div>
+    </div>
+    <div id="studio_holder" style="width: 960px;"><object id="obj" data="https://josephcrosmanplays532.github.io/animation/8389acc5d2f2b548/go_full.swf" type="application/x-shockwave-flash" width="100%" height="100%"><param name="flashvars" value="apiserver=https%3A%2F%2Fgoanimate4schoolswix.herokuapp.com%2F&storePath=https%3A%2F%2Fjosephcrosmanplays532.github.io%2Fstore%2F3a981f5cb2739137%2F%3Cstore%3E&isEmbed=1&ctc=go&ut=60&bs=default&appCode=go&page=&siteId=go&lid=13&isLogin=Y&retut=1&clientThemePath=https%3A%2F%2Fjosephcrosmanplays532.github.io%2Fstatic%2Fad44370a650793d9%2F%3Cclient_theme%3E&themeId=custom&tlang=en_US&presaveId=m-1&goteam_draft_only=1&isWide=1&nextUrl=%2F&tray=custom"> <param name="allowScriptAccess" value="always"></object></div>
+</div></div></div></div>              <div id="s-container-bottom"><span class="course-title"><a href="/course/5171570108">DRAMA I: Section 1-04</a></span><div class='course-material-navigator'><div class='navigator-buttons'><span class="infotip" tipsygravity="ne"aria-label='Web Link MVHS Daily Announcements'><a class='navbtn link-btn navbtn-prev' href="/course/5171570108/materials/gp/5292003376" course='5171570108'><span>Prev</span></a><span class="infotip-content"><div class="material-navigator-item"><span class="inline-icon link-icon"><span class="visually-hidden">Web Link</span></span> MVHS Daily Announcements</div></span></span><span class="infotip" tipsygravity="ne"aria-label='Web Link Syllabus'><a class='navbtn link-btn ' href="/course/5171570108/materials/gp/5292003434" course='5171570108'><span>Next</span></a><span class="infotip-content"><div class="material-navigator-item"><span class="inline-icon link-icon"><span class="visually-hidden">Web Link</span></span> Syllabus</div></span></span></div><div class='folder-title'><span class="inline-icon folder-icon folder-color-orange"><span class="visually-hidden">Folder.</span></span><a href="/course/5171570108/materials?f=500516173">Helpful Links &amp; Resources</a></div></div></div>                          </div>
+
+          </div>
+        </div> <!-- /#center-wrapper -->
+       </div><!-- /#main-content-wrapper -->
+             </div> <!-- /#container -->
+
+            <div id="footer" class="clearfix " role="contentinfo">
+              </div>
+      
+      <span class="clear clearfix bottom-span"></span>
+    </div><!-- /#wrapper -->
+
+          <div id="site-navigation-footer" class="clearfix" role="contentinfo"></div>
+    <!-- /layout -->
+  <div id="bottom-bar">
+    <div id="bottom-bar-inner">
+          </div>
+  </div>
+  <script>window.siteNavigationUiProps={"locales":{"en":{"site-navigation.change_language":"Change Language","site-navigation.your_profile":"Your Profile","site-navigation.settings":"Settings","site-navigation.subscriptions":"Subscriptions","site-navigation.logout":"Logout","site-navigation.resources":"Resources","site-navigation.privacy_policy":"Privacy Policy","site-navigation.terms_of_use":"Terms of Use","site-navigation.home":"Home","site-navigation.my_courses":"My Courses","site-navigation.courses":"Courses","site-navigation.join_course":"Join a Course","site-navigation.create_course":"Create a Course","site-navigation.my_groups":"My Groups","site-navigation.groups":"Groups","site-navigation.join_group":"Join a Group","site-navigation.create_group":"Create a Group","site-navigation.no_groups_joined":"You have not joined any groups","site-navigation.schoology_blog":"Schoology Blog","site-navigation.navigate_to_course":"Navigate to course %{course_title}, %{section_title}.","site-navigation.navigate_to_group":"Navigate to group %{group_title}","site-navigation.course_administrator":"You are the course administrator.","site-navigation.group_administrator":"You are the group administrator.","site-navigation.linked_sections":"This is a course with linked sections.","site-navigation.organization":"Organization: %{organization}.","site-navigation.unread_notifications":"%{smart_count} unread notification |||| %{smart_count} unread notifications","site-navigation.too_many_enrollments_error_message":"This area is unavailable when you are enrolled in more than %{max} courses\/groups","site-navigation.no_notifications":"You currently do not have any notifications.","site-navigation.no_requests":"You currently do not have any requests.","site-navigation.notifications":"Notifications","site-navigation.requests":"Requests","site-navigation.unread_messages":"%{smart_count} unread message |||| %{smart_count} unread messages","site-navigation.grade_report":"Grade Report","site-navigation.attendance":"Attendance","site-navigation.tools":"Tools","site-navigation.advisor_dashboard":"Advisor Dashboard","site-navigation.user_management":"User Management","site-navigation.school_management":"School Management","site-navigation.assessment_reports":"Assessment Reports","site-navigation.assessment_teams":"Assessment Teams","site-navigation.view_more_results":"View More Results","site-navigation.app_center":"App Center","site-navigation.show_apps":"Show Apps","site-navigation.no_apps_installed":"You currently do not have any apps installed.","site-navigation.view_all":"View All","site-navigation.messages":"Messages","site-navigation.new_message":"New Message","site-navigation.unread_message":"Unread Message","site-navigation.no_messages":"You currently do not have any messages.","site-navigation.name_and_others":"%{name} and others","site-navigation.you_sent":"You sent: %{message}","site-navigation.invited_to_join_group":"You have been invited to join group %{group}","site-navigation.wants_to_join":"%{user} wants to join %{courseOrGroup}","site-navigation.invited_to_join_course":"You have been invited to join course %{course}","site-navigation.invited_to_event":"%{user} invited you to event %{event}","site-navigation.would_like_to_connect":"%{user} would like to connect","site-navigation.add_child":"Add Child","site-navigation.something_went_wrong":"Something Went Wrong","site-navigation.reload_the_page_or_try_again":"Reload the page or try again later.","site-navigation.reload_page":"Reload Page","site-navigation.basic_user_thanks":"Thank you for using Schoology Basic.","site-navigation.basic_user_upgrade":"Click below to learn about premium features and how Schoology Enterprise can help transform education for your entire institution.","site-navigation.upgrade":"Upgrade","site-navigation.find_out_more":"Find Out More","site-navigation.admin_sgy_manager":"SGY Manager","site-navigation.admin_demo_schools":"Demo Schools","site-navigation.admin_server_info":"Server Info","site-navigation.admin_sgy_lookup":"SGY Lookup","site-navigation.admin_clear_cache":"Clear Cache","site-navigation.enter_user_id":"Enter user id","site-navigation.switch_back":"Switch Back","site-navigation.morph_to_user":"Morph to User","site-navigation.masquerade":"Masquerade","site_navigation.masquerading_as_status":"You are currently masquerading as %{userName}","site-navigation.amp":"AMP","core.admin":"Administrator","core.note":"Note:","core.of":"of","core.to":"to","core.ok":"Ok","core.actions":"Actions","core.add":"Add","core.and":"and","core.added":"Added","core.add_to":"Add to","core.added_to":"Added to","core.confirm":"Confirm","core.continue":"Continue","core.edit":"Edit","core.delete":"Delete","core.deleting":"Deleting","core.print":"Print","core.remove":"Remove","core.delete_content":"Delete Content","core.create":"Create","core.download":"Download","core.copy":"Copy","core.copied":"Copied","core.save":"Save","core.done":"done","core.saving":"Saving...","core.saving_without_ellipsis":"Saving","core.last_saved":"Last saved","core.saved":"Saved","core.go_back":"Go back","core.back":"Back","core.try_again":"Try Again","core.connection_error_title":"Connection Error","core.err_generic":"An error occurred","core.err_unable_to_save":"An error occurred while saving","core.err_unable_to_save_reorder":"Reordering failed to save due to a system error. Please refresh the page and try reordering your content again.","core.err_unable_to_save_try_again":"An error occurred while saving - please try again","core.generic_error.something_went_wrong":"Something Went Wrong!","core.generic_error.try_again_and_contact":"Please try again. If it still doesn't work, contact","core.generic_error.try_again_and_visit_help_center":"Please try again. If it still not working, visit the <link>Help Center<\/link> for support.","core.generic_error.try_again_and_visit_help_center_link":"Please try again. If it's still not working, visit the <a href='https:\/\/support.schoology.com\/hc' target='_blank'>Help Center<\/a> for support.","core.send":"Send","core.apply":"Apply","core.cancel":"Cancel","core.replace":"Replace","core.close":"Close","core.grade_level":"Level","core.save_changes":"Save changes","core.undo_last_change":"Undo last change","core.nothing_to_undo":"There are no changes that can be undone. Undo will be active once you make changes.","core.browse":"Browse","core.browse_or_search":"Browse\/Search","core.manage":"Manage","core.count_selected":"%{count} selected","core.selected_count":"selected (%{count})","core.selected_with_num":"Selected (%{num})","core.associated_with_num":"Associated (%{num})","core.version":"version","core.move":"Move","core.html5_media_error":"Your browser does not support HTML5 media tags","core.today_at":"Today at","core.yesterday_at":"Yesterday at","core.date_at_time":"%{month}, at %{time}","core.publish_to_nobody":"No One","core.publish_to_user":"your Connections","core.publish_to_schoology":"all Schoology Users","core.publish_to_everyone":"Everyone","core.publish_in_all_linked_sections":"Publish for All Sections","core.unpublish_in_all_linked_sections":"Unpublish for All Sections","core.loading_msg":"Loading...","core.title":"Title","core.title_a_z":"Title, A-Z","core.title_z_a":"Title, Z-A","core.description":"Description","core.untitled":"Untitled","core.unnamed_page":"Unnamed Page","core.edit_page":"Edit Page","core.preview_page":"Preview Page","core.file":"File","core.video_file":"Video File","core.video_recording":"Video Recording","core.audio_file":"Audio File","core.audio_recording":"Audio Recording","core.image_file":"Image File","core.document_file":"Document File","core.view_file":"View File","core.link_url":"Link\/URL","core.assignment":"Assignment","core.assignments":"Assignments","core.view_assignment":"View Assignment","core.assignment_submission":"Assignment Submission","core.no_assignments_with_submissions_in_course":"There are no assignments with submissions in this course","core.no_course_enrollment_msg":"You are not currently enrolled in any courses","core.upload":"Upload","core.num_items":"%{smart_count} Item |||| %{smart_count} Items","core.num_selected":"%{num} Selected","core.num_questions":"%{smart_count} question |||| %{smart_count} questions","core.assessment":"Test\/Quiz","core.tests_quizzes":"Tests\/Quizzes","core.view_assessment":"View Test\/Quiz","core.add_a_link":"Add a link","core.add_link":"Add link","core.unable_to_add_link":"Unable to add link","core.attachments":"Attachments","core.image":"Image","core.upload_image":"Upload image","core.update":"Update","core.color":"Color","core.preview":"Preview","core.no_cover_image":"No cover image","core.red":"Red","core.orange":"Orange","core.yellow":"Yellow","core.green":"Green","core.blue":"Blue","core.grey":"Grey","core.doc_convert_header":"Document conversion in progress for file:","core.doc_convert_line1":"We are converting your file which may take several minutes.","core.doc_convert_line2":"Once successfully converted your file will be displayed here.","core.doc_convert_fail_header":"Document conversion has failed.","core.doc_convert_fail_line1":"Please check your file and try again.","core.doc_convert_fail_line2":"If you're still experiencing issues please contact customer support for further assistance.","core.contact_support":"Contact Customer Support","core.export_to_pdf":"Export to PDF","core.export_to_zip":"Export to ZIP","core.edit_cover_image":"Edit Cover Image","core.thumb_max_msg":"Max 5MB","core.upload_file_fail_msg":"Unable to upload file","core.retry":"Retry","core.retry_save":"Retry save","core.retry_upload":"Retry upload","core.click_to_retry":"Click to retry","core.revert":"Revert","core.select_new_file":"Select New File","core.upload_file_too_large":"The file is too large to upload","core.send_feedback":"Send Feedback","core.sign_in_to_send_feedback":"Sign In To Send Feedback","core.switch_to_html":"Switch to HTML","core.switch_to_visual":"Switch to Visual","core.image_media":"Image\/Media","core.link":"Link","core.view_link":"View Link","core.symbol":"Symbol","core.symbols":"Symbols","core.equation":"Equation","core.latex":"LaTeX","core.tooltip":"Tooltip","core.strikethrough":"Strikethrough","core.superscript":"Superscript","core.subscript":"Subscript","core.clear_formatting":"Clear Formatting","core.insert_content":"Insert Content","core.formatting":"Formatting","core.subject":"Subject","core.message":"Message","core.page":"Page","core.view_page":"View Page","core.revision":"Revision","core.err_try_add_again":"Error, please try clicking 'Add' again","core.try_it_out":"Try it out!","core.ok_got_it":"Okay, got it!","core.my_courses":"My courses","core.archived_courses":"Archived Courses","core.recent_submissions":"Recent submission","core.add_submission":"Add submission","core.add_a_submission":"Add a submission","core.unable_to_add_submission":"Unable to add submission","core.flash_missing_msg":"To view this page ensure that Adobe Flash Player version 10.0.0 or greater is installed.","core.congratulations":"Congratulations!","core.search":"Search","core.search_in_this_filter":"Search in this filter","core.clear_search":"Clear Search","core.student":"Student","core.profile_image":"Profile Image","core.students":"Students","core.grading_groups":"Grading Groups","core.school":"School","core.schools":"Schools","core.course_name":"Course Name","core.course_code":"Course Code","core.subject_area":"Subject Area","core.level":"Level","core.section":"Section","core.sections":"Sections","core.section_name":"Section Name","core.section_code":"Section Code","core.grading_period":"Grading Period","core.instructor":"Instructor","core.instructors":"Instructors","core.instructor_last_name":"Instructor Last Name","core.instructor_first_name":"Instructor First Name","core.num_others":"%{smart_count} other |||| %{smart_count} others","core.num_schools":"%{smart_count} School |||| %{smart_count} Schools","core.all_schools":"All Schools","core.num_sections":"%{smart_count} Section |||| %{smart_count} Sections","core.all_sections":"All Sections","core.num_instructors":"%{smart_count} Instructor |||| %{smart_count} Instructors","core.all_instructors":"All Instructors","core.previous":"Previous","core.prev":"Prev","core.first":"First","core.next":"Next","core.last":"Last","core.loading":"Loading","core.displaying_page_result":"Displaying %{start} - %{end} of %{total} results","core.members":"Members","core.add_members":"Add Members","core.edit_members":"Edit Members","core.link_existing_section":"Link Existing Section","core.unlink_existing_section":"Unlink Existing Section","core.copy_section":"Copy Section","core.duplicate":"Duplicate","core.question_bank":"Question Bank","core.question_banks":"Question Banks","core.question_banks_with_num":"Question Bank (%{smart_count}) |||| Question Banks (%{smart_count})","core.content":"Content","core.page_break":"Page Break","core.text":"Text","core.see_more":"see more","core.see_less":"see less","core.total":"Total","core.totals":"Totals","core.show_more":"show more","core.show_less":"show less","core.points":"points","core.criteria":"criteria","core.total_points":"Total Points","core.question":"Question","core.click_to_type_question":"Click to type your question","core.yes":"Yes","core.no":"No","core.yes_with_correct_answers":"Yes with correct answers","core.unlimited":"Unlimited","core.times":"%{smart_count} time |||| %{smart_count} times","core.hide_point_values":"Hide","core.show_point_values":"Display","core.minutes":"minute |||| minutes","core.mins":"%{smart_count} min |||| %{smart_count} mins","core.with_answers":"with correct answers","core.highest_score":"Highest Score","core.average_score":"Average Score","core.last_score":"Last Score","core.none":"none","core.spanish":"Spanish","core.no_search_results_found":"No search results found","core.months_long":"January,February,March,April,May,June,July,August,September,October,November,December","core.days_long":"Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday","core.questions_label":"questions","core.questions":"%{smart_count} question |||| %{smart_count} questions","core.point":"%{smart_count} point |||| %{smart_count} points","core.short_answer":"Short answer","core.essay_question":"Essay question","core.printing":"Printing","core.excused":"Excused","core.incomplete":"Incomplete","core.missing":"Missing","core.mark_exception":"Mark With an Exception","core.clear_exception":"Clear Exception","core.exception":"Exception","core.in_progress":"In Progress","core.view":"View","core.settings":"Settings","core.setup":"Setup","core.status":"Status","core.status_draft":"Draft","core.status_active":"Active","core.status_retired":"Retired","core.other":"Other","core.last_modified":"Last modified","core.created_by":"Created by","core.date":"Date","core.date_range":"Date Range","core.select_date":"Select Date","core.start_date":"Start Date","core.end_date":"End Date","core.start_date_invalid_date_range":"Start time must occur before the end time","core.end_date_invalid_date_range":"End time must occur after the start time","core.invalid":"Invalid","core.invalidated":"Invalidated","core.course_search.display_current_sections_only":"Display Current Sections Only","core.course_search.search_sections":"Search Sections","core.course_search.show_all_search_options":"Show all search options","core.course_search.show_fewer_search_options":"Show fewer search options","core.course_search.advanced_search":"Advanced Search","core.course_search.sections_in_active":"Sections in Active Grading Periods","core.course_search.curr_section_only_hint":"You must deselect \"Sections in Active Grading Periods\" to select a grading period.","core.course_search.select_school":"Select school","core.course_search.select_subject":"Select a subject area","core.course_search.select_grade_level":"Select a grade level","core.course_search.select_grading_period":"Select a grading period","core.course_search.enter_course_name":"Enter course name","core.course_search.enter_section_name":"Enter section name","core.course_search.enter_course_code":"Enter course code","core.course_search.enter_section_code":"Enter section code","core.course_search.enter_first_name":"Enter instructor first name","core.course_search.enter_last_name":"Enter instructor last name","core.az":"AZ","core.za":"ZA","core.a_to_z":"A to Z","core.z_to_a":"Z to A","core.first_name_a_z":"First Name, A-Z","core.first_name_z_a":"First Name, Z-A","core.last_name_a_z":"Last Name, A-Z","core.last_name_z_a":"Last Name, Z-A","core.least_recent":"Least Recent","core.most_recent":"Most Recent","core.sorting_options":"Sorting Options","core.sorted_by":"Sorted by","core.instructions":"Instructions","core.action":"Action","core.ascending":"Ascending","core.descending":"Descending","core.low_to_high":"Low to High","core.high_to_low":"High to Low","core.correction":"Correction","core.collapse":"Collapse","core.label":"Label","unauthorized.error.insufficient.permissions":"You do not have permission to see results for the current selection","core.no_result_match_search_terms":"No results matched your search terms","core.accept":"Accept","core.dismiss":"Dismiss","core.open":"Open","core.results":"Results","core.sortable.enter_sort_mode":"Entering sort mode","core.sortable.exit_sort_mode":"Exiting sort mode","core.sortable.moved_item":"Moved item from position %{old_position} to %{new_position}","core.view_rubric":"View Rubric","core.recalculating":"Recalculating","core.unsubmit":"Unsubmit","core.submitted":"Submitted","core.late":"Late","core.on_time":"On Time","core.graded":"Graded","core.needs_grading":"Needs Grading","core.grade":"Grade","core.comments":"Comments","core.rating":"Rating","core.shared":"Shared","core.rubric":"Rubric","core.exceptions":"Exceptions","core.no_cancel":"No, cancel","core.true":"True","core.false":"False","core.items":"Items","core.done_capitalized":"Done","core.yes_submit":"Yes, submit","core.nevermind_not_yet":"Nevermind, not yet","core.complete":"Complete","core.display":"Display","core.activity_not_available":"This Activity is Not Available","core.import.auto":"Auto","core.import.manual":"Manual","core.import.type_csv":"Csv","core.import.accepted":"Accepted","core.import.in_progress":"In progress","core.import.completed":"Completed","core.import.failed":"Failed","core.grades":"Grades","core.mastery":"Mastery","core.calendar":"Calendar","core.calendar.delete_event":"Delete Event","core.calendar.delete_this_event":"Delete this event","core.calendar.delete_all_events":"Delete all events","core.calendar.delete_this_and_future_events":"Delete this and future events","core.calendar.delete_series":"Delete Series","core.calendar.delete_this_event_confirmation":"Are you sure you want to delete this event?","core.calendar.delete_all_confirmation":"Are you sure you want to delete all events in this series?","core.calendar.delete_this_and_future_confirmation":"Are you sure you want to delete this event and future events in this series?","core.calendar.this_event":"Just this event","core.calendar.this_and_future_events":"This event and future events","core.calendar.all_events_in_the_series":"All events in the series","core.calendar.save_changes":"Save Changes","core.calendar.error_repeat_until_limit":"Events cannot repeat for more than %{repeat_until_limit} days. Please adjust your start or until date to continue.","core.calendar.events_queued_create":"Events in the series will process through the event queue and appear on the calendar as they get created.","core.calendar.events_queued_edit":"Events in the series will process through the event queue and update on the calendar later.","core.calendar.changes_saved":"Your changes have been saved.","core.calendar.changes_visible_soon":"Your changes will be visible soon.","core.more":"More","core.home":"Home","core.and_more":"and %{smart_count} more","core.view_more":"View More","core.view_less":"View Less","core.hide_selected":"Hide Selected","core.select_all":"Select All","core.deselect_all":"Deselect All","core.clear_all":"Clear All","core.no_results_were_found":"Sorry, no results found","core.stepper.active":"Current","core.stepper.completed":"Completed","core.stepper.future":"Future Step","core.stepper.incomplete":"Incomplete","core.something_went_wrong":"Something Went Wrong","core.reload_the_page_or_try_again":"Reload the page or try again later.","core.or":"or","core.assessment_material":"Assessment","core.assessment_materials":"Assessments","core.external_tool":"External Tool","core.discussion":"Discussion","core.discussions":"Discussions","core.media_album":"Media Album","core.scorm":"SCORM","core.web_package":"Web Package","core.usage_analytics":"Usage Analytics","core.show_me":"Show me:","core.average":"Average","core.no_data_for_category":"No data found for this category","core.filters":"Filters","core.clear":"Clear","core.more_filters":"More Filters","core.material_type":"Material Type","core.submissions":"Submissions","core.views":"Views","core.managed_assessment":"Managed Assessment","core.oh_no":"Oh no!","core.lti.disabled.header":"System Error","core.lti.disabled.message":"Submissions are temporarily down. Sorry for the inconvenience.","core.resources":"Resources","core.personal":"Personal","core.group":"Group","core.error":"Error","core.secs":"%{smart_count} sec |||| %{smart_count} secs","core.repeat":"Repeat","core.until":"Until","core.never":"Never","core.every_day":"Every day","core.every_weekday":"Every weekday","core.every_day_of_week":"Every %{day}","core.day_of_month":"Day %{date} of every Month","core.nth_day_of_week_of_every_month":"%{ordinal} %{day} of every Month","core.last_day_of_month":"Last day of every Month","core.week_of_month_ordinals":"Every,First,Second,Third,Fourth,Fifth","core.string":"string","core.users":"Users","core.user_profile_left_nav_menu":"User Profile Left Navigation Menu","core.district":"District","core.custom_url":"Custom URL","core.must_enter_valid_custom_url":"You must enter a valid Custom URL, e.g. https:\/\/myapp.provider.com","core.custom_saml_url":"Custom SAML URL","core.must_enter_valid_custom_saml_url":"You must enter a valid Custom SAML URL, e.g. https:\/\/myapp.provider.com\/login","core.please_note":"Please Note:","core.configuring_app_is_not_same_as_installing":"Configuring the App is not the same as installing it. School Admins have the option to configure the app, giving their instructors the option to install it individually. To do this, do not check any boxes designating which course or school you want the app installed in after you've clicked the Install App button located in Schoology's App Center.","core.save_settings":"Save settings","core.successfully_configured":"You've successfully configured %{app_title}","core.rte_embed_error":"The content selected cannot be embedded","core.custom_domain.invalid_domain_error":"The domain you have entered does not appear to be a valid domain.","core.custom_domain.domain_already_verified_error":"This domain %{domain} has already been verified.","core.must_enter_valid_url":"You must enter a valid URL, e.g. https:\/\/myapp.provider.com","core.must_enter_valid_saml_url":"You must enter a valid SAML URL, e.g. https:\/\/myapp.provider.com\/login","core.must_specify_numeric_price":"You must specify a numeric price if payment is required","core.please_choose_at_least_one_category":"Please choose at least one category","core.please_load_config_xml":"Please load configuration xml","core.must_enter_valid_domain_url":"You must enter a valid Domain\/URL, e.g. https:\/\/myapp.provider.com","core.must_enter_acs_endpoint_url_to_use_saml":"You must enter an ACS endpoint URL in order to use SAML SSO with your app","core._must_agree_to_terms_of_service":"You must agree to the terms of service","core.search_returns_apps_any_criteria":"Search returns apps that meet any of the criteria provided","core.search_app_name":"Search by App Name","core.search_app_nid":"Search by App Nid","core.search_app_url":"Search by App Url","core.submit":"Submit","core.navigate_to_web_browser_for_attendance":"Please navigate to your web browser to record attendance.","core.access_denied":"Access Denied","core.configuration_url_xml":"Configuration URL\/XML","core.form_can_parse_launch_url":"This form will parse 'launch_url', 'custom.property', and 'extensions' elements from XML.","core.unable_to_launch_attendance_app":"We are unable to launch the Attendance App.","core.item_type_not_supported_in_context":"%{item_type} is currently not supported in context %{context}","core.media_type_not_supported_in_context":"%{item_type} with media type ${media_type} is currently not supported in context %{context}","core.my_activities":"My Activities","core.menu":"Menu","core.username":"Username","core.username_validation_error":"Usernames may only contain letters, numbers, periods, dashes, underscores, and tildes.","core.unique_id":"Unique ID","core.email":"email","core.open_submissions":"Open Submissions","core.exit":"Exit","core.you_are_viewing_as":"You are viewing as %{name}","core.point_scale_validation_error":"You must enter a numeric point value for each level."}},"csrf":{"key":"sijqQaTj0gmCUv0s4au5_TQXnlqQ2gUiAnboh0h0g6s","token":"8f63b68e2e576c51c16708cf438d9b78"},"props":{"notifications":{"maxAllowedEnrollments":150,"unreadCount":0},"unreadRequestsCount":0,"courses":{"showCreateCourse":false,"showJoinCourse":true},"groups":{"showCreateGroup":false,"showJoinGroup":true},"messages":{"canSend":true,"canReceive":true,"unreadCount":0},"tools":{"showUserManagement":false,"showSchoolManagement":false,"showImportExport":false,"showAdvisorDashboard":false,"showSchoolAnalytics":false,"schoologyAdminTools":{"showSgyManager":false,"showDemoSchools":false,"showServerInfo":false,"showSgyLookup":false,"showEmptyCache":false}},"amp":{"showAssessmentTeams":false,"showAssessmentReports":false},"apps":{"showAppCenterLink":false,"userApps":[{"nid":"1027552322","appTitle":"Discovery Education","logoImgSrc":"https:\/\/asset-cdn.schoology.com\/system\/files\/imagecache\/profile_tiny\/applogos\/logo-_59b7311b75199.png?1505177883"},{"nid":"2413452563","appTitle":"Sora, by OverDrive","logoImgSrc":"https:\/\/asset-cdn.schoology.com\/system\/files\/imagecache\/profile_tiny\/applogos\/logo-_5e791ee7c723f.png?1584996071"}]},"masquerade":[],"grades":{"showGradeReport":true,"showMastery":false,"showAttendance":false},"user":{"language":"en","languageNameNative":"English","logoutToken":"34aa0a1fdf39c0e496baf9c6fae19893","userSessionId":"6bec722373adc53006e8d352131ed88d0391e5901938aee16b2ab21dc3dcaec3","uid":90466205,"name":"Joseph Crosman","profilePictureUrl":"https:\/\/asset-cdn.schoology.com\/sites\/all\/themes\/schoology_theme\/images\/user-default.svg","parentUid":90466205,"parentName":"Joseph Crosman","parentProfilePictureUrl":"https:\/\/asset-cdn.schoology.com\/sites\/all\/themes\/schoology_theme\/images\/user-default.svg","blogSubscriptionStatus":false,"buildings":[{"nid":2384682950,"name":"Manchester Valley High School"}],"linkedAccounts":[],"childrenAccounts":[],"isBasicInstructor":false,"isBasicNonFacultyUser":false},"languageOptions":{"en":"English","en-GB":"English (UK)","fr-corp":"French - Corporate","ja":"Japanese","ms":"Malay","pt":"Portuguese","es":"Spanish"},"supportLink":{"title":"Support"},"branding":{"color1":"#FFFFFF","color2":"#DADADA","color3":"#000","color4":"#000","color5":"#FFFFFF","color6":"#0677BA","color7":"#E1DFE1","color8":"#333333","logo":"https:\/\/asset-cdn.schoology.com\/system\/files\/imagecache\/node_themes\/sites\/all\/themes\/schoology_theme\/node_themes\/2148144395\/CCPSLogov3c_5d4b19acc7114.jpg"},"sentry":{"environment":"production","configUrl":"https:\/\/7100267298a447628f7bf7cff5c7e50a@sentry.io\/1222488","sampleRate":0.1000000000000000055511151231257827021181583404541015625},"breadcrumbs":null,"motuId":null,"apiV2":{"rootUrl":"https:\/\/carrollk12.schoology.com\/v2\/root"}}}</script><script src="https://ui.schoology.com/platform/site-navigation-ui/bundle.0.154.0.js"></script><script type="text/javascript" src="https://asset-cdn.schoology.com/assets/bundles/js/common/common-bc858fa5be7f6188a0d8.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/s_extlink_ce01093c8b7cbbac317b3c83912b1dd8.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/popups-skin_c4e818d805fcb9b4673e9ae6392a0e77.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/s_course_iframe_resize_3affc7ce4adfbf9c8d44752db7894c64.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/s_user_e4c8237caadf8b2c6c0db85f72b6d61b.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/s_course_materials_folders_b9fa7d6438ac3296a62495df54bbd777.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/s_course_0a403bf903762de3ea464123d7a5a8ef.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/pendo_2706671c76c068330442ffcf0ee1cba2.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/s_app_launcher_43fa177dcabfb1a07259a664f71b959d.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/s_app_menu_c9528fbd17ccde4ca1cd56d7e97db183.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/jquery_37e34865658194ce733fcbd3af93edab.a_form.packed.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/ajax_fbfcb96e5a6cda833a9d7fde9ebd10b9.js"></script>
+<script type="text/javascript" src="https://asset-cdn.schoology.com/assets/drupal-js-files/theme_7d229e9a1db63494773f6d6ad04653b6.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","s_common":{"csrf_key":"ouPJFSN1kdIZBGEwQwbDmK6bGNULtjUUtIIKT-tPT_s","csrf_token":"8bf029a66ad9ce28dee4746cb60d9785","logout_token":"34aa0a1fdf39c0e496baf9c6fae19893","default_realm_profiles":{"group":"https:\/\/carrollk12.schoology.com\/sites\/all\/themes\/schoology_theme\/images\/group-default.svg","course":"https:\/\/carrollk12.schoology.com\/sites\/all\/themes\/schoology_theme\/images\/course-default.svg","school":"https:\/\/asset-cdn.schoology.com\/system\/files\/imagecache\/profile_tiny\/sites\/all\/themes\/schoology_theme\/images\/school-default.gif"},"date_format_language":"","language":"","timezone":"-14400","default_domain":"app.schoology.com","user":{"uid":"90466205","school_nid":"2148144395"}},"extlink":{"extTarget":"_blank","extClass":"ext","extSubdomains":1,"extExclude":"^https?:\/\/[^\/]+\\.schoology\\.com\/i","extInclude":"","extAlert":"_blank","extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"mailto"},"popups":{"links":{".s-js-locked-resource-link-diff":{"extraClass":"popups-extra-large linked-content-diff-view"},".materials-hide-toggle":{"extraClass":"popups-small"},".s-course-save-all-to-resources":{"extraClass":"popups-small","hijackDestination":true,"updateSource":"final","doneTest":"course\/.+?\/materials","updateMethod":"reload"},".app-uninstall":{"extraClass":"popups-small","targetSelectors":["#menu-s-apps-list"]}},"originalPath":"course\/5171570108\/materials\/link\/view\/5292003405","defaultTargetSelector":"div#content-wrapper","modulePath":"sites\/all\/modules\/popups","autoCloseFinalMessage":1},"s_user_ui_settings":[],"s_course":{"display_mode":2,"display_mode_without_index":2,"reminders":"enable","upcoming":"enable"},"s_accessibility":{"role_main":["content-wrapper","main"]},"s_app":{"cookie_preload_urls":[]}});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window._initPendo({"id":"3af3baf540c99de8ca50b30ebe866204","gender":"","accountCreationDate":"2020-03-18 10:49:06","isFaculty":false,"isParent":false,"isSchoolAdmin":false,"isTeacher":false,"isAdvisor":false,"isStudent":true,"customRole":"student","numCoursesEnrolled":39,"numCoursesTaught":0,"numSchoolGroupsAsMember":1,"numSchoolGroupsAsOwner":0,"numPublicGroupsAsMember":0}, {"country":"US","state":"MD","zip":"21157","schoolType":"k-12","customizedUI":true,"featurePackage":"enterprise","sgyId":131117,"organizationNid":"2148144395","buildingNid":"2148144395","id":"131117"},"9d267eb0-c5a6-41fb-786d-8ec2c4e691cc")
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window['usage-duration-ui-tracker'] = {
+                metrics: {
+                    user_id: '90466205',
+                    school_id: '2148144395',
+                    tz: 'America/New_York',
+                    client_type: 'WEB',
+                    client_version: 'Chrome Dev 93.0.4577.82',
+                    material_id: '5292003405',
+                    material_type: 'LINK',
+                    course_section_id: '5171570108',
+                },
+                config: {
+                    ingest_url: '/usage/collect',
+                    jwt_token: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiI5MDQ2NjIwNSIsInNjaG9vbElkIjoiMjE0ODE0NDM5NSIsIm5hbWVzcGFjZSI6InNjaG9vbG9neSIsImlhdCI6MTYzMTkwNzg2NSwiZXhwIjoxNjMxOTI5NDY1LCJpc3MiOiJhcHAuc2Nob29sb2d5LmNvbSJ9.ZiwshZXfjEjAgyRLyrV2l_kw2AaFuxQTAQH4SyBtl54',
+                    jwt_refresh_url: '/jwt/token',
+                    heartbeat_interval_millis: 60000,
+                    duration_min_millis: 2000,
+                    env: 'app.schoology.com',
+                },
+                sentry: {"environment":"production","configUrl":"https:\/\/4eedcd1f92ee4f5084aadfb3a34cea21@sentry.io\/1505489","sampleRate":0.1000000000000000055511151231257827021181583404541015625}
+            };
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+$.ajax({ cache: true, dataType: "script", url: "https://ui.schoology.com/analytics/usage-duration-ui-tracker/bundle.0.6.0.js"});
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"aggregated_js":["\/assets\/bundles\/js\/common\/common-bc858fa5be7f6188a0d8.js?6143a478349d6b94","\/assets\/drupal-js-files\/s_extlink_ce01093c8b7cbbac317b3c83912b1dd8.js?6143a478349d6b94","\/assets\/drupal-js-files\/popups-skin_c4e818d805fcb9b4673e9ae6392a0e77.js?6143a478349d6b94","\/assets\/drupal-js-files\/s_course_iframe_resize_3affc7ce4adfbf9c8d44752db7894c64.js?6143a478349d6b94","\/assets\/drupal-js-files\/s_user_e4c8237caadf8b2c6c0db85f72b6d61b.js?6143a478349d6b94","\/assets\/drupal-js-files\/s_course_materials_folders_b9fa7d6438ac3296a62495df54bbd777.js?6143a478349d6b94","\/assets\/drupal-js-files\/s_course_0a403bf903762de3ea464123d7a5a8ef.js?6143a478349d6b94","\/assets\/drupal-js-files\/pendo_2706671c76c068330442ffcf0ee1cba2.js?6143a478349d6b94","\/assets\/drupal-js-files\/s_app_launcher_43fa177dcabfb1a07259a664f71b959d.js?6143a478349d6b94","\/assets\/drupal-js-files\/s_app_menu_c9528fbd17ccde4ca1cd56d7e97db183.js?6143a478349d6b94","\/assets\/drupal-js-files\/jquery_37e34865658194ce733fcbd3af93edab.a_form.packed.js?6143a478349d6b94","\/assets\/drupal-js-files\/ajax_fbfcb96e5a6cda833a9d7fde9ebd10b9.js?6143a478349d6b94","\/assets\/drupal-js-files\/theme_7d229e9a1db63494773f6d6ad04653b6.js?6143a478349d6b94"]});
+//--><!]]>
+</script>
+<script type="text/javascript">sBrowserInfoSetCookie();</script>      <iframe style="display:none" src="https://asset-cdn.schoology.com/sites/all/modules/schoology_core/session-tracker.html?id=90466205"></iframe>
+          </div>
+  </body>
+</html>
