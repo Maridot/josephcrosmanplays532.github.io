@@ -33,3 +33,14 @@ if (url == 'https://www.vyond.com') {
         window.location = "https://www.vyond.com";
     }
 }
+function popupWindow(sm) {
+  if (sm == 'discord') {
+  var txt;
+  if (confirm("WARNING: Requests Or Questions Will Not Be Anwsered Right Away!")) {
+    txt = "joseph the animator#2292";
+  } else {
+    txt = "thx for being flexable!";
+  }
+  document.getElementById("smTxt").innerHTML = txt;
+  document.getElementById("smTxt").style.display = "block";
+}
