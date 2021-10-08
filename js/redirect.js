@@ -43,4 +43,5 @@ function popupWindow(sm) {
   }
   document.getElementById("smTxt").innerHTML = txt;
   document.getElementById("smTxt").style.display = "block";
+  }
 }
