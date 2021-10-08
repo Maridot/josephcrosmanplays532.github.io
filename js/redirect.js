@@ -29,4 +29,7 @@ if (url == 'https://action-ouranimate.herokuapp.com/link?redirectTo=https://my.m
 if (url == '/') {
         window.location = "/";
     }
+if (url == 'https://www.vyond.com') {
+        window.location = "https://www.vyond.com";
+    }
 }
