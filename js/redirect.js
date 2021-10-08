@@ -26,4 +26,7 @@ if (url == 'https://action-ouranimate.herokuapp.com/link?redirectTo=https://clev
 if (url == 'https://action-ouranimate.herokuapp.com/link?redirectTo=https://my.mheducation.com/secure/student/urn:com.mheducation.openlearning:enterprise.identity.organization:prod.global:organization:705ae22b-9c1c-49bb-88c3-22b125987fe9/home') {
         window.location = "https://action-ouranimate.herokuapp.com/link?redirectTo=https://my.mheducation.com/secure/student/urn:com.mheducation.openlearning:enterprise.identity.organization:prod.global:organization:705ae22b-9c1c-49bb-88c3-22b125987fe9/home";
     }
+if (url == '/') {
+        window.location = "/";
+    }
 }
