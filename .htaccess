@@ -1,7 +1,7 @@
-<Files *.txt>
+<Files *home.txt>
 Order Deny,Allow
 Deny from All
 </Files>
 
 # Create a custom page for all 403 errors
-ErrorDocument 403 /misc/403.html
+ErrorDocument 403 /403.html
