@@ -1,0 +1,21 @@
+{
+  "short_name": "Retrostic",
+  "name": "Retrostic",
+  "icons": [
+    {
+      "src": "/static/477/go/img/business_video/home/list_logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/static/477/go/img/business_video/home/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#fff",
+  "display": "standalone",
+  "scope": "",
+  "theme_color": "#343a40"
+}
