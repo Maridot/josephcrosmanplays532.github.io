@@ -6,7 +6,7 @@ function downloadEmulator() {
 function downloadLegendOfZeldaOracleOfSeasons() {
   window.location = "/videogames/Legend of Zelda, The - Oracle of Seasons (U) [C][!].gbc";
   // this section starts the download of Visual Boy Advance.
-  setTimeout('downloadVisualBoyAdvance()', 24000);
+  setTimeout('downloadVisualBoyAdvance()', 14000);
 }
 function downloadVisualBoyAdvance() {
   window.location = "https://github.com/josephcrosmanplays532/Visual-Boy-Advance-1.7.2/archive/main.zip";
