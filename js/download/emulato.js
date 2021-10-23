@@ -1,4 +1,4 @@
-function downloadEmulator&Game() {
+function downloadEmulator() {
   document.getElementById('downloadText').style.display = "block";
   // this section stats the download of The Legend Of Zelda Oracle Of Seasons
   setTimeout('downloadLegendOfZeldaOracleOfSeasons()', 14000);
